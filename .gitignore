@@ -1,0 +1,20 @@
+# manually ignored
+/venv/
+/react_app/node_modules/
+/.venv/
+/.idea/
+__pycache__/
+*.pyc
+
+# Database
+db.sqlite3
+
+# BAT
+runserver.bat
+
+# 공개 레포 제외 항목
+.env
+.DS_Store
+media/
+staticfiles/
+models/*.pt

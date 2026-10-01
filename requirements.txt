@@ -1,0 +1,14 @@
+# 개발 환경: Python 3.11
+Django==5.2.2
+djangorestframework==3.16.0
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.7.0
+pandas==2.3.0
+numpy==1.26.4
+yfinance==0.2.66
+ccxt==4.5.10
+matplotlib==3.10.3
+mplfinance==0.12.10b0
+pillow==11.2.1
+pytz==2025.2
+ultralytics==8.3.152
